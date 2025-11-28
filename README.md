@@ -2,7 +2,7 @@
 
 Detect cyberbullying in code-mixed social-media text (Romanized Hindi, Hindi, and English) with this easy-to-use deep-learning model. Perfect for websites, software, or mobile apps that need real-time content moderation.
 
-## Why Use This Model?**
+## Why Use This Model?
 
 Handles noisy, multilingual code-mixed text with a CNN–BiLSTM model, including full preprocessing, trained from scratch for high accuracy, and ready for integration via Python API, Flask/FastAPI, or TensorFlow Lite.
 
