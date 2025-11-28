@@ -14,9 +14,12 @@ Handles noisy, multilingual code-mixed text with a CNN–BiLSTM model, including
 
 ### Get Started->
 
-1)Clone the repo
-2)Install dependencies (tensorflow, keras, numpy, pandas, scikit-learn)
-3)Load the pre-trained model and run predictions on your own text
+1. Clone the repo
+
+2. Install dependencies (tensorflow, keras, numpy, pandas, scikit-learn)
+
+3. Load the pre-trained model and run predictions on your own text
+
 
 ## License:
 
